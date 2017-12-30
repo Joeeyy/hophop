@@ -17,3 +17,6 @@ Tested on iPhone8
 
 ## TODO
 Polish Autohop
+
+## Refer
+- [使用Python和OpenCV检测图像中的物体并将物体裁剪下来](http://blog.csdn.net/liqiancao/article/details/55670749)
